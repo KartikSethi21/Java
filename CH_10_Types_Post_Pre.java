@@ -1,4 +1,4 @@
-public class Types_Post_Pre {
+public class CH_10_Types_Post_Pre {
     public static void main(String[] args) {
         float a = 65.6f + 9;
         System.out.println(a);

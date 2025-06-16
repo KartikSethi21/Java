@@ -1,4 +1,4 @@
-public class Literals {
+public class CH_05_Literals {
     public static void main(String[] args){
         byte age = 34;
         int age2 = 56;

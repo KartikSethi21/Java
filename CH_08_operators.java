@@ -1,4 +1,4 @@
-public class operators {
+public class CH_08_operators {
     public static void main(String[] args){
         // 1 Arithmetic operators +, - , * , / , %
         int a = 7;

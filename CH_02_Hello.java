@@ -1,11 +1,11 @@
 // package com.company; -. used to moke all classes into a single package optional
 import java.util.Scanner;
 
-public class Hello{
+public class CH_02_Hello{
     public static void main(String[] args){
         System.out.println("Hello World");
-        try (Scanner var = new Scanner(System.in)) {
-        }
+        Scanner var = new Scanner(System.in);
+        var.nextLine();
     }
 }
 

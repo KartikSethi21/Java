@@ -1,4 +1,4 @@
-public class Primitives {
+public class CH_03_Primitives {
     //Primitive is data type cann not be break further
     public static void main(String[] args) {
         byte tnew =12;

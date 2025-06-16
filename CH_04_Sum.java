@@ -1,4 +1,4 @@
-public class Sum{
+public class CH_04_Sum{
     public static void main(String[] args){
         int num1=23;
         int num2=45;

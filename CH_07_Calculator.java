@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator {
+public class CH_07_Calculator {
     public static void main(String[] args) {
         int a,b,c,d,e;
         System.out.println("Enter the Subjects Marks out of 100");

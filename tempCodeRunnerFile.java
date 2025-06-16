@@ -1,2 +1,1 @@
-        // String str =sc.next();//next only take a word
-        // System.out.println(str);
+class CH_13_String_Method

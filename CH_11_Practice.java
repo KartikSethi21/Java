@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practice {
+public class CH_11_Practice {
     public static void main(String[] args) {
         System.out.println();
         Scanner sc = new Scanner(System.in);

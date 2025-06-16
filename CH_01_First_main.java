@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class First_main {
+public class CH_01_First_main {
     //main class name  should be same as file name
     //public so that we can access the file from anywhere
     //class is just name group of property and functions

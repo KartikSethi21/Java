@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Input{
+public class CH_06_Input{
     public static void main(String args[]){
         System.out.println("Taking Input from User");
         Scanner sc = new Scanner(System.in);
