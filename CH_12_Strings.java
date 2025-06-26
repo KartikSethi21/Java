@@ -24,7 +24,7 @@ public class CH_12_Strings {
         // String stri = sc.next(); // takes first wrod
         String stri = sc.nextLine(); 
         System.out.println(stri);
-
+        sc.close();
     }
 }
 
