@@ -13,7 +13,7 @@ public class CH_08_operators {
         b = b/4;
         System.out.println(b);
 
-        // Module % works on float and doublw too
+        // Module % works on float and double too
         b= 27%2;
         System.out.println(b);
         System.out.println(4.8 % 1.1);

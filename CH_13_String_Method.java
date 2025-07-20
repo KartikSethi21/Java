@@ -25,7 +25,7 @@ public class CH_13_String_Method {
 
         // Third toLowerCase()
         String upper_str = st1.toUpperCase();
-        System.out.println("String in Upper Case is "+lower_str);
+        System.out.println("String in Upper Case is "+upper_str);
         
         // Fourth trim()
         String nonTrimmedString = " ka la lss   ldl   ";

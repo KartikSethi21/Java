@@ -62,6 +62,8 @@ public class CH_17_SWITCH {
 
             default -> System.out.println("Kya hi hoga tumhara");
         }
+
+        sc.close();
     }
     
 }

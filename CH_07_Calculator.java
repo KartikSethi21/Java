@@ -18,6 +18,8 @@ public class CH_07_Calculator {
         float percentage = ((a+b+c+d+e)/500.f)*100;
         System.out.print("Percentage is ");
         System.out.println(percentage);
+
+        ur.close();
     }
     
 }

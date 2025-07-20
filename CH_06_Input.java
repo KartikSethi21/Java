@@ -7,6 +7,7 @@ public class CH_06_Input{
         System.out.println("Enter number 1");
         
         int a =sc.nextInt();
+        System.out.println(a);
         float ab = sc.nextFloat();
         // Check if number is float
 
@@ -31,5 +32,7 @@ public class CH_06_Input{
 
         String str1 =sc.nextLine();//nextLine take full string
         System.out.println(str1);
+        sc.close();
+        
     }
 }

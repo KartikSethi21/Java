@@ -14,7 +14,7 @@ public class CH_25_Arrays {
         //  Declaration and initialization -> memory allocation automatic by java
         int [] height = {121,134,155,189,177}; 
 
-    // type array varname = new type[size]
+        // type array varname = new type[size]
         
         System.out.println("Address of marks array "+marks);
 

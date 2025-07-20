@@ -9,7 +9,7 @@ public class CH_11_Practice {
         float a =7/4* 9/2;
         // int/int = int 7/4 =>1
         System.out.println(a);
-            float ab =7/4.0f* 9/2.0f;
+            float ab =7/4.0f * 9/2.0f;
         // int/int = int 7/4 =>1
         System.out.println(ab);
 
@@ -44,6 +44,8 @@ public class CH_11_Practice {
 
         int sa =7*49 + 35/7;
         System.out.println(sa);
+
+        sc.close();
 
     }
 }

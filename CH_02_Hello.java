@@ -1,4 +1,4 @@
-// package com.company; -. used to moke all classes into a single package optional
+// package com.company; -. used to make all classes into a single package optional
 import java.util.Scanner;
 
 public class CH_02_Hello{
@@ -6,6 +6,7 @@ public class CH_02_Hello{
         System.out.println("Hello World");
         Scanner var = new Scanner(System.in);
         var.nextLine();
+        var.close();
     }
 }
 

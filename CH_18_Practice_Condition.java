@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class CH_18_Practice_Condition {
     public static void main(String[] args) {
-        // Pracrice 1
-        int a =10;
+        // Practice 1
+        int a = 10;
         if(a==11){//a=11
             System.out.println("a ia 11");
         }else{
@@ -26,7 +26,8 @@ public class CH_18_Practice_Condition {
         subj3=sc.nextFloat();
 
         float total= ((subj1 +subj2 +subj3)/300)*100;
-        float pass1, pass2, pass3;
+        // float pass1, pass2, pass3;
+
         if(total > 40 && (subj1 > 33 && subj2 > 33 && subj3 > 33)){
             System.out.println("Pass");
         }else{

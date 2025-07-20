@@ -18,6 +18,6 @@ public class CH_01_First_main {
         Scanner input = new Scanner(System.in);
         System.out.println(input.nextInt());
         System.out.println(input.next());//First sting/word only
-        
+        input.close();
     }
 }
