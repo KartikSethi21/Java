@@ -1,4 +1,4 @@
-public class CH_29_METHODS {
+public class CH_29_METHODS_1 {
     int logic(int a, int b) {
         int sum;
         if (a >= b) {
@@ -53,7 +53,7 @@ public class CH_29_METHODS {
 
         // Method invocation using object creation
         // for non static method we need to create its object
-        CH_29_METHODS obj = new CH_29_METHODS();
+        CH_29_METHODS_1 obj = new CH_29_METHODS_1();
         int c = obj.logic(9, 7);
         System.out.println(c);
 
