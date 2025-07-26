@@ -150,6 +150,8 @@ public class CH_32_2_RECURSION {
         System.out.println(fibNumber);
 
         FibbonaciSeries(10);
+        int fiboNumber =fibNumber(4);
+        System.out.println("Number is "+fiboNumber);
 
         // Print pattern
         pattern(4);
