@@ -1,6 +1,6 @@
 
 // 1st  Employee
-class Employee {
+class Employee1 {
     int id;
     String name; // by default null
     int salary;
@@ -66,7 +66,7 @@ public class CH_34_OOP_QUES {
     public static void main(String[] args) {
 
         // Problem 1
-        Employee kartik = new Employee();
+        Employee1 kartik = new Employee1();
         kartik.setName("Kartik Won ");
         kartik.salary = 500;
         System.out.println(kartik.getName());

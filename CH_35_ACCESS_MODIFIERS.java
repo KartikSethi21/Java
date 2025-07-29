@@ -1,4 +1,4 @@
-class Employee {
+class Employee3 {
     private int id;
     private String name;
 
@@ -24,7 +24,7 @@ class Employee {
 
 public class CH_35_ACCESS_MODIFIERS {
     public static void main(String[] args) {
-        Employee kar = new Employee();
+        Employee3 kar = new Employee3();
         // Private can not access
         // will throw an error due to private access modifier
 
